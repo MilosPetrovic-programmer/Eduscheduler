@@ -1,0 +1,28 @@
+.appointments {
+  color: lightgrey;
+}
+
+.appointments-heading {
+  color: lightgrey;
+  margin-left: 10px;
+}
+
+.appointments-paragraph {
+  color: lightgrey;
+  margin-left: 10px;
+}
+
+.delete-button-appointments{
+  margin-top: 10px !important;
+  padding: 5px 10px !important;
+  background-color: #f44336 !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 5px !important;
+  cursor: pointer !important;
+  width: 100px;
+}
+
+.delete-button-appointments:hover {
+  background-color: #d32f2f !important;
+}

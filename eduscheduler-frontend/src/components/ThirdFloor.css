@@ -1,0 +1,48 @@
+.third-floor-plan {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 10px;
+  height: 30em;
+  margin: auto;
+  background-color: rgb(248, 247, 252);
+  border-radius: 10px;
+  width: 60em;
+}
+
+.room {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+  transition: 0.4s;
+}
+
+.room:hover {
+  background-color: blue;
+}
+
+.room.U203 {
+  grid-column: 1 / 2;
+  grid-row: 2 / 2;
+}
+
+.room.U206 {
+  grid-column: 2 / 3;
+  grid-row: 2 / 2;
+}
+
+.room.U207 {
+  grid-column: 3 / 4;
+  grid-row: 2 / 2;
+}
+
+.room.U208 {
+  grid-column: 4 / 5;
+  grid-row: 2 / 2;
+}
+
+.room.U211 {
+  grid-column: 5 / 6;
+  grid-row: 2 / 2;
+}
