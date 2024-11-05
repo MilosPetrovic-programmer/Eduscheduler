@@ -49,7 +49,7 @@ Implementing CORS (Cross-Origin Resource Sharing) policies for smooth interactio
 <br>
 This project provided valuable experience in web application development, including working with React and PHP. It helped enhance my skills in managing application state, interacting with backend services, and creating user-friendly interfaces.
 <br>
-## Acknowledgments
+## Acknowledgments <br>
   React <br>
   PHP <br>
   MySQL <br>
