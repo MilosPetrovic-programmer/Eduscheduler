@@ -37,18 +37,18 @@ To set up the project locally, follow these steps:
 6. Usage <br>
   Access the application through your web browser at http://localhost:3000 (for the React frontend). <br>
   Log in with your credentials to access classroom availability and reservation features.
-<br>
+<br> <br>
 ## Challenges
 <br>
 During the development process, I faced several challenges, including:
 <br>
 Enabling communication between different ports (frontend on port 3000 and backend on port 80). <br>
 Implementing CORS (Cross-Origin Resource Sharing) policies for smooth interaction between the client and server.
-<br>
+<br> <br>
 ## Conclusion
 <br>
 This project provided valuable experience in web application development, including working with React and PHP. It helped enhance my skills in managing application state, interacting with backend services, and creating user-friendly interfaces.
-<br>
+<br> <br>
 ## Acknowledgments <br>
   React <br>
   PHP <br>
